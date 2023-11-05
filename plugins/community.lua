@@ -13,4 +13,5 @@ return {
   { import = "astrocommunity.pack.html-css" },
   { import = "astrocommunity.pack.json" },
   { import = "astrocommunity.colorscheme.gruvbox-baby" },
+  { import = "astrocommunity.colorscheme.vscode-nvim" },
 }
